@@ -1,6 +1,6 @@
 # Aulas Programação
 
-#### Atividades e anotações de cursos da Udemy!
+#### Projetos e anotações de cursos da Udemy!
 
 1. Git e Github para iniciantes (Willian Justen de Vasconcellos) - Udemy
 2. Programação em C do básico ao avançado (Geek University) - Udemy
